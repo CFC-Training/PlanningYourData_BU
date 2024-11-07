@@ -1,0 +1,62 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "66zE7e1BkRg",
+  "title": " Oscar နှင့် Sarah တို့နှင့် စကားပြောခြင်း",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "ခေါင်းစဉ်မဲ့ ပြကွက်"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6BtvYc2JSNx",
+      "title": "Oscar 1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5wc0Mt4W4Lp",
+      "title": "Oscar 2",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5sqv7b3S03b",
+      "title": "Oscar 3",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5w4z49c2w4q",
+      "title": "ဟုတ်ပါတယ် ကျွန်တော့မှာရှိပါတယ်",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6qu0aXe1WnL",
+      "title": "မဟုတ်ပါဘူး ကျွန်တော့မှာ မရှိပါဘူး",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6gtOfTW7deJ",
+      "title": "Ana",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5qGPG2GbHcq",
+      "title": "ဟုတ်ကဲ့ ကြည့်ပါမယ်",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5eCWPrVljas",
+      "title": "မကြည့်တော့ပါဘူး ကျေးဇူးတင်ပါတယ်",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
